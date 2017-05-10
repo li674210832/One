@@ -14,7 +14,8 @@ public class MainActivity extends AppCompatActivity {
     }
 public void setDatw(){
 
-     
+
 
 }
+    private void alinig(){}
 }
